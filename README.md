@@ -9,7 +9,7 @@ NIA    | User name | Repo | Improvement | Score
 612595 | BELTRÁN PIÑOL, VÍCTOR | [test repo](https://github.com/Victorbp09/lab5-soa/tree/test)
 683326 | BINTANED BASA, JESÚS | [test](https://github.com/jebiba95/lab5-soa/tree/test)
 649003 | CAUDEVILLA CASAUS, JOSE ÁNGEL
-750846 | DAVID MOLINA, JOHN ALEXIS
+750846 | DAVID MOLINA, JOHN ALEXIS | [test repo](https://github.com/JohnD23/lab5-soa/tree/test)
 529361 | DUMITRACHE , CATALIN  CONSTANTIN 
 535621 | FRÍAS ZAPATER, MARTA ALMUDENA
 680669 | GUIU PÉREZ, ALEJANDRO | [test repo](https://github.com/aguiu/lab5-soa/tree/test)
